@@ -2,7 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Boston house-price prediction
+In this project, I utilized various machine learning models to predict Boston house price.
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
