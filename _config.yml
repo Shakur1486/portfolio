@@ -1,11 +1,12 @@
 title: John Doe # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Data Scientist with 1yr+ experience in Data Science and a Master’s degree in Renewable Energy from University of Hull.
   <br><br>
-  Second description 
+  Graduated with a first class undergraduate degree
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://https://www.linkedin.com/in/sakiru-adebayo//">View my LinkedIn Profile</ 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
