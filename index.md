@@ -5,8 +5,9 @@
 ### Boston house-price prediction
 In this project, I utilized various machine learning models to predict Boston house price.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Github](https://github.com/sakiruadebayo/Boston-Housing)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
