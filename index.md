@@ -20,19 +20,16 @@ In this project, I utilized explored the immigration data of Australia provided 
 [View code on Github](https://github.com/sakiruadebayo/Austaralia_Migration/tree/main)
 
 ---
-[XYZ HR EMPLOYEE ATTRITION ANALYSIS](https://medium.com/@sakiruadebayo1486/xyz-company-employee-attrition-analysis-project-f9ff5bbfd2ee))
+[XYZ HR EMPLOYEE ATTRITION ANALYSIS](https://medium.com/@sakiruadebayo1486/xyz-company-employee-attrition-analysis-project-f9ff5bbfd2ee)
 
 [![](https://img.shields.io/badge/Excel-darkgreen?logo=Excel)](#)
 
 <img src="images/Image 19-08-2023 at 22.44.jpeg?raw=true"/>
 
 
----
 
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
