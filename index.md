@@ -10,8 +10,12 @@ In this project, I utilized various machine learning models to predict Boston ho
 [View code on Github](https://github.com/sakiruadebayo/Boston-Housing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Australia immigraion trend
+In this project, I utilized explored the immigration data of Australia provided by United Nations. It contains the data from 1980 to 2008. Various visualizaion tools using the matplotlib library was used to derive insights from the data.
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+<img src="images/immigration trend.png?raw=true"/>
+[View code on Github](https://github.com/sakiruadebayo/Austaralia_Migration/tree/main)
 
 ---
 [Project 3 Title](http://example.com/)
