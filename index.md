@@ -32,7 +32,7 @@ In this project, I utilized explored the immigration data of Australia provided 
 
 [![](https://img.shields.io/badge/Excel-darkgreen?logo=Excel)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
 
-<img src="images/Image 19-08-2023 at 22.44.jpeg?raw=true"/>
+<img src="images/Screenshot 2023-08-26 at 22.28.15.png?raw=true"/>
 
 
 
