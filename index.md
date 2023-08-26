@@ -26,6 +26,14 @@ In this project, I utilized explored the immigration data of Australia provided 
 
 <img src="images/Image 19-08-2023 at 22.44.jpeg?raw=true"/>
 
+---
+
+[SUPERSTORE SALES ANALYSIS](https://medium.com/@sakiruadebayo1486/a-superstore-sales-data-analysis-project-e247dbf3dcde)
+
+[![](https://img.shields.io/badge/Excel-darkgreen?logo=Excel)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+
+<img src="images/Image 19-08-2023 at 22.44.jpeg?raw=true"/>
+
 
 
 
