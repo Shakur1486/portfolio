@@ -1,4 +1,12 @@
 ## Selected projects in data analysis, data science and machine learning
+---
+### Cancer Data
+In this project, I utilized Random forest classifier and Decison tree classifier to classify cancer type into benign or malignant.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Github](https://github.com/sakiruadebayo/Cancer)
+
 
 ---
 
