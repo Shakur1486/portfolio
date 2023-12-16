@@ -1,4 +1,12 @@
-## Selected projects in data analysis, data science and machine learning
+## Selected projects in data analysis, data science, data engineering and machine learning
+---
+[SUPERSTORE SALES ANALYSIS](https://medium.com/@sakiruadebayo1486/a-superstore-sales-data-analysis-project-e247dbf3dcde)
+
+[![](https://img.shields.io/badge/Excel-darkgreen?logo=Excel)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+
+<img src="images/Screenshot 2023-08-26 at 22.28.15.png?raw=true"/>
+
+
 ---
 ### Cancer Data
 In this project, I utilized Random forest classifier and Decison tree classifier to classify cancer type into benign or malignant.
@@ -34,13 +42,9 @@ In this project, I utilized explored the immigration data of Australia provided 
 
 <img src="images/Image 19-08-2023 at 22.44.jpeg?raw=true"/>
 
----
 
-[SUPERSTORE SALES ANALYSIS](https://medium.com/@sakiruadebayo1486/a-superstore-sales-data-analysis-project-e247dbf3dcde)
 
-[![](https://img.shields.io/badge/Excel-darkgreen?logo=Excel)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
 
-<img src="images/Screenshot 2023-08-26 at 22.28.15.png?raw=true"/>
 
 
 
